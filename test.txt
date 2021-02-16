@@ -1,0 +1,8 @@
+[core]
+	editor = \"C:\\Users\\AH\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[user]
+	email = amir_hammami@hotmail.fr
+	name = AmirHammami
+[credential]
+	username = 'csha-shaqra'
+	email = 'hammamia064@gmail.com'
